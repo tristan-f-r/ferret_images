@@ -1,6 +1,6 @@
 # Ferret Images
 
-Collection of various ferret images for use with the [ferret_api](https://github.com/LeoDog896/ferret_api).
+Collection of various ferret images for use with the [ferret_api](https://github.com/tristan-f-r/ferret_api).
 
 ## Contributing
 
@@ -12,7 +12,7 @@ Collection of various ferret images for use with the [ferret_api](https://github
 
 ### How to contribute images
 
-Make an issue submission: [Ferret Submission Form](https://github.com/LeoDog896/ferret_images/issues/new?assignees=LeoDog896&labels=submission&template=SUBMIT.yml&title=%5BSubmission%5D%3A+).
+Make an issue submission: [Ferret Submission Form](https://github.com/tristan-f-r/ferret_images/issues/new?assignees=LeoDog896&labels=submission&template=SUBMIT.yml&title=%5BSubmission%5D%3A+).
 
 ### How to contribute in other ways
 
@@ -20,7 +20,7 @@ Many images need "tagging"! Being able to make alt descriptions, add patterns an
 
 ### How to contribute (developer)
 
-Use the [`ferret_api`](https://github.com/LeoDog896/ferret_api) repository instead. The `ferret_images` repository is available as a submodule that you can contribute to by using the `ferret_image` CLI. More information is available in the other repository.
+Use the [`ferret_api`](https://github.com/tristan-f-r/ferret_api) repository instead. The `ferret_images` repository is available as a submodule that you can contribute to by using the `ferret_image` CLI. More information is available in the other repository.
 
 ## Layout
 
